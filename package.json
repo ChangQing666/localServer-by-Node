@@ -1,0 +1,31 @@
+{
+  "name": "localserver-by-node",
+  "version": "1.0.0",
+  "description": "使用koa, express, fastify, nodejs原生来启动本地服务进行项目预览.",
+  "main": "serverByExpress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChangQing666/localServer-by-Node.git"
+  },
+  "keywords": [
+    "koa",
+    "express",
+    "node"
+  ],
+  "author": "ChangQing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChangQing666/localServer-by-Node/issues"
+  },
+  "homepage": "https://github.com/ChangQing666/localServer-by-Node#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fastify": "^1.9.0",
+    "koa": "^2.5.2",
+    "koa-static": "^5.0.0",
+    "serve-static": "^1.13.2"
+  }
+}
