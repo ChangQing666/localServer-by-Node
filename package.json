@@ -1,7 +1,7 @@
 {
   "name": "localserver-by-node",
   "version": "1.0.0",
-  "description": "使用koa, express, fastify, nodejs原生来启动本地服务进行项目预览.",
+  "description": "分别使用koa, express, fastify, nodejs原生四种方法来实现启动本地服务进行项目预览的目的.",
   "main": "serverByExpress.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
